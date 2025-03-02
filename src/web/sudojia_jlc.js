@@ -1,11 +1,12 @@
 /**
  * 嘉立创
- *
- * 机械行业可以跑跑，基本兑换的实物都是有关机械的
  * 官网：https://m.jlc.com/mapp/
  * 小程序：嘉立创下单助手
- * 抓包 Host：https://m.jlc.com 获取请求头 x-jlc-accesstoken 的值
- * export JLC_TOKEN = '2616xxxx-xxxx-xxxx-xxxx-xxxxxxxxxxxx'
+ *
+ * 机械行业可以跑跑，基本兑换的实物都是有关机械的
+ *
+ * 抓包 Host：https://m.jlc.com 获取请求头 x-jlc-accesstoken 和 secretkey 的值, 用 # 分割
+ * export JLC_TOKEN = '2616xx-xxx-xxx#xxxxxxxxxxxxxxx'
  * 多账号用 & 或换行
  *
  * @author Telegram@sudojia
